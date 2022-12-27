@@ -21,7 +21,10 @@ public:
 };
 class Car
 {
-
+private:
+		string e;
+	double patrol;
+public:
 };
 int main()
 {
