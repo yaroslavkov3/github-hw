@@ -19,6 +19,10 @@ public:
 		cout <<"X"<< x << "\t" <<"Y" << y << endl;
 	}
 };
+class Car
+{
+
+};
 int main()
 {
 	Point obj2;
